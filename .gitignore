@@ -4,4 +4,4 @@ node_modules
 doc
 test
 .vercel
-.dist
+dist
