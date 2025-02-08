@@ -5,7 +5,7 @@
   "scripts": {
     "start": "npx nodemon src/index.ts",
     "dev": "npx nodemon src/index.ts",
-    "build:ui": "@powershell Remove-Item -Recurse -Force dist && cd ../frontend && npm run build && @powershell Copy-Item -Recurse dist ../backend",
+    "build": "tsc",
     "lint": "eslint .",
     "test": "jest --runInBand"
   },
