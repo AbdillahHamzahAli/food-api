@@ -1,0 +1,1 @@
+{"version":3,"file":"ingredient-model.js","sourceRoot":"","sources":["../../src/model/ingredient-model.ts"],"names":[],"mappings":";;AAuBA,oDAQC;AARD,SAAgB,oBAAoB,CAClC,UAAsB;IAEtB,OAAO;QACL,EAAE,EAAE,UAAU,CAAC,EAAE;QACjB,IAAI,EAAE,UAAU,CAAC,IAAI;QACrB,QAAQ,EAAE,UAAU,CAAC,QAAQ;KAC9B,CAAC;AACJ,CAAC"}

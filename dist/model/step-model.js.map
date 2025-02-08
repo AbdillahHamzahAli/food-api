@@ -1,0 +1,1 @@
+{"version":3,"file":"step-model.js","sourceRoot":"","sources":["../../src/model/step-model.ts"],"names":[],"mappings":";;AAuBA,wCAMC;AAND,SAAgB,cAAc,CAAC,IAAU;IACvC,OAAO;QACL,EAAE,EAAE,IAAI,CAAC,EAAE;QACX,UAAU,EAAE,IAAI,CAAC,UAAU;QAC3B,UAAU,EAAE,IAAI,CAAC,WAAW;KAC7B,CAAC;AACJ,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"environment.js","sourceRoot":"","sources":["../../src/application/environment.ts"],"names":[],"mappings":";;;;;;AAAA,oDAA4B;AAE5B,gBAAM,CAAC,MAAM,CAAC,EAAE,IAAI,EAAE,YAAY,EAAE,CAAC,CAAC;AAEzB,QAAA,KAAK,GAAG;IACnB,IAAI,EAAE,OAAO,CAAC,GAAG,CAAC,IAAI,IAAI,IAAI;IAC9B,UAAU,EAAE,OAAO,CAAC,GAAG,CAAC,UAAoB;CAC7C,CAAC"}
