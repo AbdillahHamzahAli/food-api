@@ -5,7 +5,7 @@
   "scripts": {
     "test": "jest --runInBand",
     "build": "tsc",
-    "start": "node dist/main.js"
+    "vercel-build": "echo 'hello'"
   },
   "jest": {
     "transform": {
