@@ -9,7 +9,9 @@ const error_middleware_1 = require("../middleware/error-middleware");
 const api_1 = require("../route/api");
 const cors_1 = __importDefault(require("cors"));
 const app = (0, express_1.default)();
-app.use((0, cors_1.default)());
+app.use((0, cors_1.default)({
+    origin: "*",
+}));
 app.use(express_1.default.json());
 app.use(public_api_1.publicRouter);
 app.use(api_1.apiRouter);
